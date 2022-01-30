@@ -2,3 +2,4 @@
 3232update
 第二次对1.txt进行更新
 money-of-ztp验证协同开发出现的冲突解决
+ztp-ztp对1.txt进行修改，学习协同开发时冲突的解决
